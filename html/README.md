@@ -1,1 +1,1 @@
-"# deneme" 
+"# Kodluyoruz HTML and CSS homeworks" 
